@@ -35,7 +35,7 @@ jobs:
 
       - run:
           name: Build Application
-          command: ./gradlew assemble
+          command: ./gradlew bundleRelease
       
      
         
